@@ -13,7 +13,7 @@ Estudante de Engenharia de Computação com experiência prévia em telecomunica
 ### 🔬 Projetos de pesquisa em andamento
 
 - **Iniciação Científica** — mineração e análise de dados de mídias sociais, com foco no comportamento de usuários online (análise linguística e detecção de toxicidade em conteúdo textual).
-- **Banco de questões para o ENADE** — criação de um banco de questões no Moodle para alunos de Sistemas de Informação e Engenharia de Computação, além de uma aplicação web para análise estatística dos resultados.
+- **Banco de questões para o ENADE** — criação de um banco de questões no Moodle para alunos de Sistemas de Informação e Engenharia de Computação, além de uma aplicação web para análise estatística dos resultados ([Painel Enade](https://github.com/LucasECota/Painel_Enade_UFOP_Front)).
 
 ### 🛠️ Tecnologias
 
@@ -21,6 +21,7 @@ Estudante de Engenharia de Computação com experiência prévia em telecomunica
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,6 +33,7 @@ Estudante de Engenharia de Computação com experiência prévia em telecomunica
 
 | Projeto | Descrição |
 |---|---|
+| 📊 [**Painel Enade — ICEA/UFOP**](https://github.com/LucasECota/Painel_Enade_UFOP_Front) | Painel web (React + Vite) com API própria ([Node.js + Express](https://github.com/LucasECota/Painel_Enade_UFOP_Back)) que reúne os resultados do Enade, os cursos de preparação do AvaliaUFOP e o desempenho dos alunos do ICEA. Com testes automatizados, CI no GitHub Actions e anonimização dos dados dos alunos. |
 | 🐾 [**Sistema de Gerenciamento de Petshop**](https://github.com/LucasECota/Sistemas-de-gerenciamento-de-petshop) | Sistema web completo (Node.js + Express + PostgreSQL) para gestão de tutores, pets, agendamentos e vendas, com SQL puro e transações. |
 | 📰 [**Querido Diário Frontend**](https://github.com/LucasECota/querido-diario-frontend) | Contribuição ao projeto open-source Querido Diário, plataforma de busca de diários oficiais brasileiros. |
 
