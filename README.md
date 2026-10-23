@@ -13,7 +13,7 @@ Estudante de Engenharia de Computação com experiência prévia em telecomunica
 ### 🔬 Projetos de pesquisa em andamento
 
 - **Iniciação Científica** — mineração e análise de dados de mídias sociais, com foco no comportamento de usuários online (análise linguística e detecção de toxicidade em conteúdo textual).
-- **Banco de questões para o ENADE** — criação de um banco de questões no Moodle para alunos de Sistemas de Informação e Engenharia de Computação, além de uma aplicação web para análise estatística dos resultados ([Painel Enade](https://github.com/LucasECota/Painel_Enade_UFOP_Front)).
+- **Banco de questões para o ENADE** — criação de cursos de preparação para o ENADE no Moodle para os três cursos de graduação do ICEA (Engenharia de Computação, Engenharia de Produção e Sistemas de Informação), além do desenvolvimento do site do painel ([Painel Enade](https://github.com/LucasECota/Painel_Enade_UFOP_Front)).
 
 ### 🛠️ Tecnologias
 
