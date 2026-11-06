@@ -2,13 +2,12 @@
 
 🎓 Graduando em **Engenharia de Computação** pela **UFOP** (campus João Monlevade)
 📍 Rio Piracicaba, MG — Brasil
-💼 Em busca de oportunidade de **estágio em TI**
 
 ---
 
 ### 🎯 Sobre mim
 
-Estudante de Engenharia de Computação com experiência prévia em telecomunicações, manutenção de equipamentos e docência. Atualmente conciliando a graduação com dois projetos de pesquisa e extensão na UFOP, buscando aplicar e ampliar meus conhecimentos em programação, análise de dados e desenvolvimento de software.
+Estudante de Engenharia de Computação. Atualmente conciliando a graduação com dois projetos de pesquisa e extensão na UFOP, buscando aplicar e ampliar meus conhecimentos em programação, análise de dados e desenvolvimento de software.
 
 ### 🔬 Projetos de pesquisa em andamento
 
